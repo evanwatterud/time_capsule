@@ -2,7 +2,7 @@
 and its
 [contents](http://www.oglethorpe.edu/about_us/crypt_of_civilization/inventory.asp)
 are interesting and all, but what if we want to create our own Time Capsule?
-hello
+
 ### Part 1
 
 We can use an array to store the contents of our time capsule in a variable
